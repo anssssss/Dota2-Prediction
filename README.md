@@ -2,12 +2,12 @@
 Predict the result of Dota2 match based on teams' ranking and recent matches history
 
 ## Sources
-* Ranking data: https://www.gosugamers.net/dota2/rankings
+* Ranking data: https://www.opendota.com/
 
 ## Requirements:
 * Python3: https://www.python.org/
 * __Jupyter Notebook: https://jupyter.org/__
-* __Requests: https://requests.readthedocs.io/en/master/__
+* __Selenium: https://www.selenium.dev/__
 * Google Chrome: https://www.google.com/chrome/
 * ChromeDriver: https://sites.google.com/a/chromium.org/chromedriver/
 * __BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/__
